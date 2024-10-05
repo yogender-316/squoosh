@@ -57,3 +57,6 @@ in package.json and after that run as mentioned
 npm i
 then npm run build
 then npm run dev
+then go to http://localhost:5000
+
+and after few seconds refresh it
